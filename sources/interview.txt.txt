@@ -1,0 +1,233 @@
+    What is your full name? Do you have a nickname (if so, who calls you this)?
+
+    Where and when were you born?
+
+    Who are/were your parents? (Their names, birthplaces, occupations, personalities, etc.)
+
+    Do you have any siblings? If you do, what are/were they like?
+
+    Where do you live now, and with whom? Describe the place (home and location) and the person/people you live with.
+
+    What is your occupation?
+
+    To which social class do you belong?
+
+    Are you right- or left handed?
+
+    What does your voice sound like?
+
+    On what occasions do you lie?
+
+    Do you have a motto? If so, what is it?
+
+    Do you have any annoying habits, quirks, strange mannerisms, or other defining characteristics?
+
+    What is your hair color and eye color?
+
+    What kind of distinguishing facial features do you have?
+
+    Do you have any physical traits that stand out (such as scars, birthmarks, tattoos, etc.)? If you have scars, how did you get them? If you have tattoos, why did you get them and what meaning do they have to you?
+
+    Which words or phrases do you most overuse?
+
+Past
+
+    How would you describe your childhood?
+
+    How much schooling have you had?
+
+    Did you enjoy school? If not, why did you struggle?
+
+    Where did you learn most of your skills and other abilities?
+
+    Did you have any role models? If so, describe them and why they were your role models.
+
+    How did you get along with the other members of your family?
+
+    What did you want to be when you grew up?
+
+    What were your favorite activities?
+
+    When and where were you the happiest?
+
+    Who were your friends, and what were they like?
+
+    When did you have your first kiss, and who with?
+
+    Are you a virgin? If not, when and with whom did you lose your virginity?
+
+    Describe any influences in your past that led you to do the things you do today.
+
+    What do you consider the most important event of your life so far?
+
+    Who has had the most influence on you?
+
+    What do you consider your greatest achievement so far, why?
+
+    What is your greatest regret so far, why? Has this regret formed you into the person you are today? If so, why?
+
+    What is the most evil thing you have ever done so far?
+
+    Do you have a criminal record?
+
+    What is the most embarrassing thing that has happened to you so far?
+
+    If you could change one thing from your past, what would it be, and why?
+
+    What is your best memory so far? Why is it so powerful and lasting?
+
+    What is your worst memory so far? Why is it so powerful and lasting?
+
+    What is you biggest secret? Does anyone else know about this? Which person do you least want to know about this secret, why?
+
+    Are you optimistic or pessimistic?
+
+    What is your greatest fear? Which other person knows about this fear of yours? Who do you not want to know about this fear of yours, why?
+
+    What is your greatest extravagance?
+
+    What are your religious views?
+
+    What are your political views?
+
+    What are your views on sex?
+
+    Do you believe in the existence of soul mates and/or true love?
+
+    In your opinion, what is the most evil thing any human being could do?
+
+    Are you able to kill? Under what circumstances do you find killing to be acceptable or unacceptable?
+
+    What do you measure success in? (Money, career, husband/wife, children, happiness, etc.)
+
+    How honest are you about your thoughts and feelings in the company of others?
+
+    Do you have any prejudices? If so, what are they and why do you have those specific prejudices?
+
+    Who or what would you die for, or otherwise go to extremes for?
+
+    In general, how do you treat others (politely, as they treat you, by keeping them at a distance, with sarcasm, etc.)? Does your treatment of them change depending on how well you know them, and if so, how?
+
+    How close are you to your family?
+
+    Which person do you wish you were closest to?
+
+    Do you have a spouse or significant other? If so, describe this person in some rough strokes.
+
+    Have you started your own family? If so, describe them in rough strokes. If not, do you want to start a family? Why or why not?
+
+    Who is the most important person in your life, why?
+
+    Who is the person you respect the most, why?
+
+    Who are your friends? Do you have a best friend? What do you most value in your friends? Describe them with some basics like their personalities, how you met them, what you have in common, etc.
+
+    Have you ever been in love? If so, describe in some rough strokes what happened (love at first sight, unrequited love, ended up marrying him/her, ended with heartbreak, etc.).
+
+    What do you look for in a potential lover?
+
+    Who would you turn to if you were in desperate need of help?
+
+    Do you trust anyone to protect you? Who, and why?
+
+    If you died or went missing, who would miss you?
+
+    Who is the person you despise the most, why?
+
+    Do you tend to argue with people, or avoid conflict?
+
+    Do you tend to take on leadership roles in social situations?
+
+    Do you like interacting with large groups of people? Why or why not?
+
+    Do you care what others think of you? Why or why not?
+
+    What is/are your favorite hobbies and pastimes?
+
+    What is your favorite color?
+
+    What is your favorite food?
+
+    What is your most treasured possession?
+
+    Do you like to read? If so, what do you like to read?
+
+    What do you believe is good entertainment (music, movies, dance, art, etc.)?
+
+    Do you smoke, drink, or use drugs? If so, why? How do you get the money for it? Do you want to quit?
+
+    How do you spend a typical Saturday night?
+
+    What makes you laugh?
+
+    What shocks or offends you?
+
+    What makes you happy?
+
+    What makes you sad?
+
+    What makes you angry?
+
+    If you usually walk away from a situation that makes you angry, where do you go to calm yourself?
+
+    How do you deal with stress?
+
+    How do you deal with pain (physical and emotional)?
+
+    Are you spontaneous, or do you always need to have a plan?
+
+    What are your pet peeves?
+
+    Which living person do you most despise? Why?
+
+    What is the quality you most like in a man?
+
+    What is the quality you most like in a woman?
+
+    Where would you like to live? Why?
+
+    Describe the routine of a normal day for you. How do you feel when this routine is disrupted?
+
+    What is your greatest strength?
+
+    What is your greatest weakness?
+
+    Which talent would you most like to have? Why?
+
+    Do you like yourself?
+
+    If you could change one thing about yourself, what would it be?
+
+    Are you generally introverted or extroverted?
+
+    Are you generally organized or messy?
+
+    Name three things you consider yourself to be good at, and three things you consider yourself to be bad at.
+
+    What three words best describe your personality?
+
+    What three words would others probably use to describe you?
+
+    What goal do you most want to accomplish in your life?
+
+    Where do you see yourself in 5 years?
+
+    If you could choose, how would you want to die?
+
+    If you knew you were going to die in 24 hours, name three things you would do in the time you had left.
+
+    If you were to die and come back as a person, animal, or thing, what do you think it would be, and why?
+
+    What is the one thing for which you would most like to be remembered after your death?
+
+    What do you have in your pockets or purse?
+
+    What in on your nightstand?
+
+    What is in you refrigerator?
+
+    What do you most wear on your feet (dress shoes, boots, gym shoes, socks with holes in them, slippers, etc.)?
+
+    What smells do you associate with your childhood, and why (the cookies your grandmother used to bake, the oatmeal you ate every day, the perfume your mother used to wear, etc.)?
+
+    If you are cleaning among your things, what is easy for you to throw out? What do you have difficulty parting with? Why?
