@@ -10,6 +10,12 @@ The more I worked on it, however, I ended up pushing for more of a fake, fantasy
 - Builds a work history that generates responsibilities of the job
 - Conducts an interview with said character using a mix of Markovify and GPT-2
 
+## How to Run
+
+The .pynb file works best on google colab. Just create a double based off this link(https://colab.research.google.com/drive/1yELunjWyOx1AERCmEKQc9KmIrVUxrTuV?usp=sharing) and then drag the sources folder with the two .txt files into the window. Nothing else really requires interaction aside from one cell which asks for user input.
+
+The output will be created as a .txt file for viewing, as well.
+
 ## Samples
 
 While I did struggle to get everything as connected as I wanted it to be, the program does produce some entertaining results, such as a Necromancer who has about two years of experience working in a pseudo Bed Bath and Beyond. Granted, it does take a while to run due to GPT-2's processing, and in fact, it <b>is best to run it through google colab.</b>
